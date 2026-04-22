@@ -23,6 +23,7 @@ Me chamo Herbert Victor, tenho 19 anos e sou natural de Pernambuco. Concluí o e
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg"
         />
     </a>
+</p>
 
 ---
 
